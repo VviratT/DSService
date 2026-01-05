@@ -4,4 +4,4 @@ print("2️⃣ after importing app")
 
 if __name__ == "__main__":
     print("3️⃣ before app.run")
-    app.run(host="localhost", port=8000, debug=False)
+    app.run(host="localhost", port=8010, debug=False)
